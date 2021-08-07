@@ -216,7 +216,7 @@ I used a combination of color and gradient thresholds to generate a binary image
 <center>Actual output image binary</center>
 <br>
    
-<img src="output_images/img_binary.jpg"/>
+<img src="output_images/img_binary.JPG"/>
 
 <br>
 

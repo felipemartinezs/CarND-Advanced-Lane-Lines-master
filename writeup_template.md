@@ -387,7 +387,7 @@ The result of following these steps is shown in the following video.
 
 
 Here's a [Finding Lane Lines Solid White Right Lines](https://youtu.be/3dgbT-PgoNw)
-https://youtu.be/3dgbT-PgoNw
+
 
 ---
 

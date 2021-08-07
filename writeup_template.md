@@ -119,7 +119,6 @@ Here's a [link to my video result](./project_video.mp4)
 
 
 
-https://user-images.githubusercontent.com/17582812/128588903-79122f9a-c026-405d-8947-cbc1fdb60cf0.mp4
 
 
 

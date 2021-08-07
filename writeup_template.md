@@ -333,7 +333,7 @@ The two highest peaks in our histogram are the starting point to determine where
 
 <center>Implementing the Calculation</center>
 <br>
-<img src="output_images/implementing_calculation.jpg" alt="implementing_calculation" width="400"/>
+<img src="output_images/implementing_calculation.JPG" alt="implementing_calculation" width="400"/>
 
 <br>
 
